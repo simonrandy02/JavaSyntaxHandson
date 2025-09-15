@@ -88,7 +88,7 @@ B.1.Pemilihan Tipe Data
     Output:
 
     7 / 3 = 2
-
+git
     Penjelasan singkat:
     double cocok untuk operasi dengan hasil pecahan atau desimal.
     int cocok untuk operasi yang harus menghasilkan bilangan bulat, tapi hati-hati karena hasilnya dibulatkan ke bawah.
